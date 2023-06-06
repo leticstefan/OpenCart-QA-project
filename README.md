@@ -1,2 +1,2 @@
-**Mock project: Open Cart Functional testing **
+** Mock project: Open Cart Functional testing **
 
