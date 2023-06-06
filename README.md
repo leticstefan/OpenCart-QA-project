@@ -1,1 +1,2 @@
-# OpenCart-QA-project
+**Mock project: Open Cart Functional testing **
+
