@@ -1,4 +1,4 @@
-**Mock project: Open Cart Functional testing**
+**MOCK PROJECT: OPEN CART FUNCTIONAL TESTING**
 
 **Description**
 
