@@ -9,6 +9,6 @@ This mock project is not affiliated with OpenCart or its development team. It is
 
 Documents created for this project:
 1. _Functional Requirements OpenCart_ based on the documentation available on their website: https://www.opencart.com/, and was inspired by Pavan from youtube channel: https://www.youtube.com/@sdetpavan
-2. _TEST PLAN OpenCart_ based on the documentation available on their website: https://www.opencart.com/, and was inspired by Pavan from youtube channel: https://www.youtube.com/@sdetpavan and individual experience 
+2. _TEST PLAN OpenCart_ based on the documentation available on their website: https://www.opencart.com/, individual experience and was inspired by Pavan from youtube channel: https://www.youtube.com/@sdetpavan 
 
 
